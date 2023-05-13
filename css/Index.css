@@ -1,11 +1,18 @@
-html, body {
+body {
     height: 100%;
     margin: 0;
 }
-.tag {
-    height: 100%;
-    background: black;
+.centered {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #333333;
 }
-.home-button {
-    background: aliceblue;
+
+.animate__animated.animate__fadeInDown {
+    --animate-duration: 2s;
+}
+.text:hover {
+    cursor: pointer;
 }
