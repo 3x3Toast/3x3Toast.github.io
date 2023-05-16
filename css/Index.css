@@ -13,6 +13,16 @@ body {
 .animate__animated.animate__fadeInDown {
     --animate-duration: 2s;
 }
+.text {
+    margin: 5%;
+    border-radius: 25px;
+    transition: 0.5s;
+    font-size: xx-large;
+    color: whitesmoke;
+}
 .text:hover {
     cursor: pointer;
+    color: #cbe98d;
+    font-size: 300%;
+    font-weight: bold;
 }
