@@ -40,7 +40,8 @@ a {
   height: 100vh;
   width: 100%;
   background-image: url("../img/videoblocks-macro-of-vintage-man-writing-with-a-dip-pen-by-fireplace-light_hgdiy_8pm_thumbnail-1080_01-2597694774.png");
-  background-position: center top;  }
+  background-position: center top;
+  background-size: cover;  }
 
 .site-navbar {
   margin-bottom: 0px;
