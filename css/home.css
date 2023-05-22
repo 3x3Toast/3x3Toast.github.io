@@ -12,7 +12,10 @@ body {
     opacity: 0;
     transition: opacity 1s;
 }
-
+.navi {
+  position: fixed;
+  top: 0px;
+}
 #image-track {
     display: flex;
     gap: 4vmin;
