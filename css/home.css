@@ -14,7 +14,7 @@ body {
 }
 .navi {
   position: fixed;
-  top: 0px;
+  top: 0%;
 }
 #image-track {
     display: flex;
